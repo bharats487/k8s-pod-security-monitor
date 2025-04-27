@@ -1,0 +1,4 @@
+apiVersion: v2
+name: pod-security-enforcement
+version: 0.1.0
+description: A Helm chart to enforce Kubernetes Pod Security Standards and Gatekeeper policies
