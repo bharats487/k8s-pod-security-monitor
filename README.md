@@ -1,5 +1,10 @@
 # Kubernetes Pod Security Monitoring & Enforcement
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bharats487/k8s-pod-security-monitor.svg)](https://github.com/bharats487/k8s-pod-security-monitor/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/bharats487/k8s-pod-security-monitor.svg)](https://github.com/bharats487/k8s-pod-security-monitor/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/bharats487/k8s-pod-security-monitor.svg)](https://github.com/bharats487/k8s-pod-security-monitor/commits/master)
+
 This project provides real-time monitoring and best-practice enforcement for Kubernetes pod security, combining:
 
 - **Live monitoring** of pod security violations (Python backend + web dashboard)
