@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes Pod Security Monitoring & Enforcement
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -83,3 +84,7 @@ This project provides real-time monitoring and best-practice enforcement for Kub
 ---
 
 **For production use, always test policies in audit mode first and review official Kubernetes/Gatekeeper documentation.**
+=======
+# k8s-pod-security-monitor
+Real-time Kubernetes pod security monitoring and enforcement: dashboard, Helm, Gatekeeper, Pod Security Admission.
+>>>>>>> 60e87cbb0d60bd3b6acb262702fc4e4bd9f1a9cf
